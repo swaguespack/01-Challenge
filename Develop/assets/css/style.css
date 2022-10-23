@@ -45,6 +45,7 @@ h4 {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    
 }
 
 .header div ul {
@@ -102,7 +103,7 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -169,21 +170,3 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-/*Useless classes for headings*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
