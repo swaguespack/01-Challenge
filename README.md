@@ -1,4 +1,4 @@
-# <01-Challenge>
+# 01-Challenge
 
 ## Description
 
