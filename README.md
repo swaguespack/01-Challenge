@@ -19,5 +19,5 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-https://swaguespack.github.io/01-challenge/
+https://swaguespack.github.io/01-challenge-Horiseon/
 
